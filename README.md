@@ -35,7 +35,7 @@ El código está organizado en varias funciones:
 - Herramientas: Postman para pruebas, Visual Studio Code como entorno de desarrollo
 
 ## Datos del Autor
-- **Nombre**: [Dylan Nixon Moreno Chávez]
+- **Nombre**: Dylan Nixon Moreno Chávez
 - **Fecha de Creación**: 22 de diciembre de 2024
 
 ## Conclusión
